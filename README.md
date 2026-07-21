@@ -1,1 +1,2 @@
 # Smart_Potholes_Detection_System
+The Smart Pothole Detection and Mapping System is an intelligent solution designed to detect potholes on roads using a Raspberry Pi, camera, ultrasonic sensor, and GPS module. It identifies road damage, records the exact location, and stores the data for analysis. The system aims to improve road safety and support timely maintenance by providing accurate pothole information. This project offers a cost-effective approach for smart transportation and smart city applications.
